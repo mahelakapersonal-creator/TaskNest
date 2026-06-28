@@ -80,4 +80,4 @@ The Vite dev server proxies `/api` to the backend on port 5000.
 - Figma wireframes & mockups: https://www.figma.com/design/957RQ46EUtdMJ1aOT7iNmw/TaskNet?node-id=5-165
 
 ## Author
-- WEB 68 — Mahelaka Ranasinghe — IT/WEB/25/68/0018
+Mahelaka Ranasinghe — IT/WEB/25/68/0018
