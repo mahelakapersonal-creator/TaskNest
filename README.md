@@ -77,7 +77,7 @@ The Vite dev server proxies `/api` to the backend on port 5000.
 **Task:** title, description, status, priority, dueDate, user (ref), createdAt
 
 ## Design
-- Figma wireframes & mockups: _<add your Figma link here>_
+- Figma wireframes & mockups: https://www.figma.com/design/957RQ46EUtdMJ1aOT7iNmw/TaskNet?node-id=5-165
 
 ## Author
-- WEB 68 — _Your Name_ — _Reg Number_
+- WEB 68 — Mahelaka Ranasinghe — IT/WEB/25/68/0018
